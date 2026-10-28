@@ -13,9 +13,9 @@ function renderHtml(title, heading, content) {
   </head>
   <body>
     <nav>
-      <a href="/">Início</a>
+      <a href="/">Início trab nuv</a>
       <a href="/sobre">Sobre</a>
-      <a href="/contato">Contato</a>
+      <a href="/contato 2">Contato</a>
     </nav>
     <main>
       <h1>${heading}</h1>
